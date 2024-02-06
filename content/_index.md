@@ -44,9 +44,9 @@ sections:
               *  Conducted regression testing to ensure system functionality and meet expected outcomes.
               * Wrote automated test scripts to enhance testing efficiency and accuracy.
               * Performed unit testing for new feature deployments to ensure functionality integrity and stability.
-              *Utilized AWS ECR cloud service to spin up virtual machines, monitored website performance, and promptly optimized as needed.
-              *Employed Docker to test new features to ensure compliance with CI/CD pipeline requirements.
-              *Assisted backend engineers in deploying new features, including code deployment and system configuration.
+              * Utilized AWS ECR cloud service to spin up virtual machines, monitored website performance, and promptly optimized as needed.
+              * Employed Docker to test new features to ensure compliance with CI/CD pipeline requirements.
+              * Assisted backend engineers in deploying new features, including code deployment and system configuration.
         - title: Automated Quality Assurance software engineer intern
           company: iKala Interactive Media Inc.
           company_url: 'https://ikala.ai/zh-tw/'
