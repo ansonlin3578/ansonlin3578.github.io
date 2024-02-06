@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 林淞祐
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lin Sung Yu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sung Yu
+last_name: Lin
 
 # Status emoji
 status:
@@ -17,34 +17,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Devops software engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nation Tsing Hua University
+    url: https://www.nthu.edu.tw/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Block Chain technology
+  - Web 3
+  - Dcentralize Finance
+  - Data Mining
+  - Maching Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Eletrical Engineersin
+      institution: National Tsing Hua University
+      year: 2023
+    - course: Bachelor in Eletrical Engineersin
+      institution: Naitonal Taipei University of Technology
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,11 +55,11 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Javscript
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: js
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 40
@@ -94,21 +93,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ansonlin3578
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sung-yu-lin-874b70233/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
