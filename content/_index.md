@@ -208,30 +208,30 @@ sections:
   #   design:
   #     columns: '2'
   - block: contact
-  id: contact
-  content:
-    title: Contact
-    # subtitle:
-    # text: ''
-    # Contact (add or remove contact options as necessary)
-    email: ansonlin0722@gmail.com
-    phone: (+886)979-756-812
-    # Choose a map provider in `params.yaml` to show a map from these coordinates
-    # contact_links:
-    #   - icon: twitter
-    #     icon_pack: fab
-    #     name: DM Me
-    #     link: 'https://twitter.com/yuyang_zhuang'
-    # Automatically link email and phone or display as text?
-    # autolink: true
-    # Email form provider
-    # form:
-    #   provider: netlify
-    #   formspree:
-    #     id:
-    #   netlify:
-    #     # Enable CAPTCHA challenge to reduce spam?
-    #     captcha: false
-  design:
-    columns: '2'
+    id: contact
+    content:
+      title: Contact
+      # subtitle:
+      # text: ''
+      # Contact (add or remove contact options as necessary)
+      email: ansonlin0722@gmail.com
+      phone: (+886)979-756-812
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/yuyang_zhuang'
+      # Automatically link email and phone or display as text?
+      # autolink: true
+      # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
+    design:
+      columns: '2'
 ---
