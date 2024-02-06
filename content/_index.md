@@ -32,27 +32,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Automated Quality Assurance software engineer intern
+          company: iKala Interactive Media Inc.
+          company_url: 'https://ikala.ai/zh-tw/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Taipei Taiwan
+          date_start: '2023-04-12'
+          date_end: '2023-10-06'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Established a comprehensive automated testing framework that simulated real-world scenarios and tested the RESTful responses of web servers. Reduced the need for manual testing, ensured consistency and accuracy in testing.
+              * Designed an intuitive test result reporting system, presenting test results in the form of charts and summaries. This allowed the development team to easily track pass rates, failure reasons, and the progress of fixes.
+              * Consistently optimized the testing framework and process based on feedback and newly discovered challenges
+        - title: DevOps software engineer intern
+          company: CoolBitX Ltd.
+          company_url: 'https://coolbitx.com/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Taipei Taiwan
+          date_start: '2023-10-11'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              *  Conducted regression testing to ensure system functionality and meet expected outcomes.
+              * Wrote automated test scripts to enhance testing efficiency and accuracy.
+              * Performed unit testing for new feature deployments to ensure functionality integrity and stability.
+              *Utilized AWS ECR cloud service to spin up virtual machines, monitored website performance, and promptly optimized as needed.
+              *Employed Docker to test new features to ensure compliance with CI/CD pipeline requirements.
+              *Assisted backend engineers in deploying new features, including code deployment and system configuration.
     design:
       columns: '2'
   - block: skills

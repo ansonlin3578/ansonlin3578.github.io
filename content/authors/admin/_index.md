@@ -31,7 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Block Chain technology
   - Web 3
-  - Dcentralize Finance
+  - Decentralize Finance
   - Data Mining
   - Maching Learning
 
@@ -55,7 +55,7 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Javscript
+      - name: Javascript
         description: ''
         percent: 100
         icon: js
