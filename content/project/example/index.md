@@ -30,7 +30,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 ### Abstract
 In this project, I first conducted a comprehensive analysis to identify all the test scenarios that needed to be covered. Then, I proceeded to create a <u style="color: #7dafe2;">flowchart</u> outlining the automation testing process. This flowchart included the <u style="color: #7dafe2;">validation items, test data, definition of positive and negative test cases</u>, as well as the expected error codes and messages that the web server should respond with in different scenarios.
