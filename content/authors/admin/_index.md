@@ -97,12 +97,12 @@ skills:
       - name: Solidity
         description: ''
         percent: 50
-        icon: file-contract
+        icon: file-signature
         icon_pack: fab
       - name: testing framework(playwright, pytest...)
         description: ''
         percent: 80
-        icon: wrench
+        icon: screwdriver-wrench
         icon_pack: fab
 
 # Social/Academic Networking
