@@ -97,13 +97,13 @@ skills:
       - name: Solidity
         description: ''
         percent: 50
-        icon: file-signature
-        icon_pack: fab
+        icon: sol_icon
+        icon_pack: custom
       - name: testing framework(playwright, pytest...)
         description: ''
         percent: 80
-        icon: screwdriver-wrench
-        icon_pack: fab
+        icon: tool_icon
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
