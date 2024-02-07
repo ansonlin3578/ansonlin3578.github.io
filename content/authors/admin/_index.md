@@ -65,16 +65,16 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-      - name: Solidity
+      - name: React
         description: ''
         percent: 40
-        icon: file-contract
+        icon: react
         icon_pack: fab
-      - name: C++
+      - name: Golang
         description: ''
         percent: 50
-        icon: cplusplus
-        icon_pack: custom
+        icon: golang
+        icon_pack: fab
   - name: Tool
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -94,11 +94,16 @@ skills:
         percent: 80
         icon: github
         icon_pack: fab
+      - name: Solidity
+        description: ''
+        percent: 80
+        icon: github
+        icon_pack: fab
       - name: testing framework(playwright, pytest...)
         description: ''
         percent: 80
         icon: wrench
-        icon_pack: hero
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
