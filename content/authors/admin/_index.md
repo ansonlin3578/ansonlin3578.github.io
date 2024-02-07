@@ -68,12 +68,12 @@ skills:
       - name: Solidity
         description: ''
         percent: 40
-        icon: file-contract
+        icon: fab/file-contract
         icon_pack: fab
       - name: C++
         description: ''
         percent: 50
-        icon: cplusplus
+        icon: custom/cplusplus
         icon_pack: ''
   - name: Tool
     color: '#eeac02'
@@ -97,8 +97,8 @@ skills:
       - name: testing framework(playwright, pytest...)
         description: ''
         percent: 80
-        icon: wrench
-        icon_pack: fab
+        icon: hero/wrench
+        icon_pack: ''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
