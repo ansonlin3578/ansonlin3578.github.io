@@ -65,6 +65,11 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
+      - name: Solidity
+        description: ''
+        percent: 40
+        icon: solidity
+        icon_pack: fas
       - name: C++
         description: ''
         percent: 50
@@ -124,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a graduate student majoring in Electrical Engineering at [National Tsing Hua University](https://www.nthu.edu.tw/), focusing on machine learning, data mining, and related applications.I previously worked as an Automation Testing Software Engineering Intern at iKala Interactive Media Inc., where I gained insights into software development processes and enhanced my practical abilities. Currently, I am serving as a DevOps Software Engineering Intern at Coolbitx Technology, where I have honed my skills in various programming languages and tools including <u style="color: #7dafe2;">JavaScript</u>, <u style="color: #7dafe2;">Python</u>, <u style="color: #7dafe2;">Golang</u>, <u style="color: #7dafe2;">Git</u>, <u style="color: #7dafe2;">Docker</u>, <u style="color: #7dafe2;">AWS Lambda</u>, and <u style="color: #7dafe2;">Linux Shell</u>, through hands-on projects.I am passionate about blockchain technology, big data, and artificial intelligence, as I believe these fields hold immense potential for innovation and impact.I aspire to secure a position in these domains where I can apply my expertise and skills to contribute meaningfully.
 {style="text-align: justify;"}
