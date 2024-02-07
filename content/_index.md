@@ -35,7 +35,7 @@ sections:
         - title: DevOps software engineer intern
           company: CoolBitX Ltd.
           company_url: 'https://coolbitx.com/'
-          company_logo: org-x
+          company_logo: CoolBitX_logo
           location: Taipei Taiwan
           date_start: '2023-10-11'
           date_end: ''

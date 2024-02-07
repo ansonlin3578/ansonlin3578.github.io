@@ -82,8 +82,8 @@ skills:
       - name: AWS
         description: ''
         percent: 50
-        icon: aws
-        icon_pack: fas
+        icon: hero/cloud
+        icon_pack: hero
       - name: Docker
         description: ''
         percent: 50
@@ -94,6 +94,11 @@ skills:
         percent: 80
         icon: github
         icon_pack: fas
+      - name: testing framework(playwright, pytest...)
+        description: ''
+        percent: 80
+        icon: hero/wrench
+        icon_pack: hero
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
