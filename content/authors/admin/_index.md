@@ -31,7 +31,7 @@ bio: My research interests include Block Chain, Web 3, Data Mining, DevOps techn
 interests:
   - Block Chain technology
   - Web 3
-  - Decentralize Finance
+  - Decentralize Applications
   - Data Mining
   - Maching Learning
 
