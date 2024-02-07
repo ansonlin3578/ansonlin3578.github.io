@@ -4,7 +4,7 @@ summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">nodeJS/selenium/playwright/webdriver/postman/</small></em><br>
   <small><em>Sep 2023 – Oct 2023</em></small><br>
   The automated testing program I developed has reduced the testing time to `one-tenth` of the original manual testing time.<br>
-  [Maintaned website](https://www.kolradar.com/?gad_source=1&gclid=CjwKCAiA8YyuBhBSEiwA5R3-E6FUlu5Qdbs0fb4d2B5GIptRWLuzycL-b8oxWVI2Co9mXhhDn6IkvhoCupsQAvD_BwE)
+  --> [Maintaned website](https://www.kolradar.com/?gad_source=1&gclid=CjwKCAiA8YyuBhBSEiwA5R3-E6FUlu5Qdbs0fb4d2B5GIptRWLuzycL-b8oxWVI2Co9mXhhDn6IkvhoCupsQAvD_BwE)
 tags:
   - Automated testing 
 date: '2023-09-01T00:00:00Z'
@@ -39,3 +39,4 @@ In this project, I first conducted a comprehensive analysis to identify all the 
 After finalizing the flowchart, I proceeded to develop the <u style="color: #7dafe2;">automated testing package</u>. This package was designed to take the response from the web server as input and generate a detailed test report as output. The testing package included various test cases covering both positive and negative scenarios to ensure thorough testing of the web server's functionality.
 
 Overall, this approach enabled us to streamline the testing process and significantly reduce the time required for testing while ensuring comprehensive coverage of all relevant test scenarios.
+  --> [Maintaned website](https://www.kolradar.com/?gad_source=1&gclid=CjwKCAiA8YyuBhBSEiwA5R3-E6FUlu5Qdbs0fb4d2B5GIptRWLuzycL-b8oxWVI2Co9mXhhDn6IkvhoCupsQAvD_BwE)

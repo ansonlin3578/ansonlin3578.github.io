@@ -14,6 +14,6 @@ date: "2023-05-31T00:00:00Z"
 external_link: ''
 
 image:
-  caption: 
+  caption: ''
   focal_point: Smart
 ---

@@ -12,6 +12,13 @@ date: "2023-12-01T00:00:00Z"
 external_link: ''
 
 image:
-  caption: 
+  caption: ''
   focal_point: Smart
+
+links:
+  - icon: github
+    icon_pack: fab
+    name: Repository
+    url: https://github.com/ansonlin3578/DM2023-Lab2-Master
+
 ---
