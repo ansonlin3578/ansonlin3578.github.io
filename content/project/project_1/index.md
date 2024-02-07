@@ -3,7 +3,7 @@ title: Web server end-to-end automated tesing flow
 summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">nodeJS/selenium/playwright/webdriver/postman/</small></em><br>
   <small><em>Sep 2023 – Oct 2023</em></small><br>
-  The automated testing program I developed has reduced the testing time to <b style="color: red;">one-tenth</b> of the original manual testing time.
+  The automated testing program I developed has reduced the testing time to `one-tenth` of the original manual testing time.
 tags:
   - Automated testing 
 date: '2023-09-01T00:00:00Z'
