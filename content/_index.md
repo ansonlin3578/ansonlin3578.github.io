@@ -62,8 +62,9 @@ sections:
               * Consistently optimized the testing framework and process based on feedback and newly discovered challenges
     design:
       columns: '2'
-      
+
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
