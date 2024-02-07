@@ -50,7 +50,7 @@ sections:
         - title: Automated Quality Assurance software engineer intern
           company: iKala Interactive Media Inc.
           company_url: 'https://ikala.ai/zh-tw/'
-          company_logo: org-x
+          company_logo: ikala_icon
           location: Taipei Taiwan
           date_start: '2023-04-12'
           date_end: '2023-10-06'

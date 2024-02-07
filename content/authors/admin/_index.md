@@ -52,22 +52,22 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Javascript
         description: ''
-        percent: 100
+        percent: 90
         icon: js
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
       - name: React
         description: ''
-        percent: 40
+        percent: 50
         icon: react
         icon_pack: fab
       - name: Golang
@@ -86,7 +86,7 @@ skills:
         icon_pack: fab
       - name: Docker
         description: ''
-        percent: 50
+        percent: 70
         icon: docker
         icon_pack: fab
       - name: Git
@@ -96,8 +96,8 @@ skills:
         icon_pack: fab
       - name: Solidity
         description: ''
-        percent: 80
-        icon: github
+        percent: 50
+        icon: file-contract
         icon_pack: fab
       - name: testing framework(playwright, pytest...)
         description: ''
