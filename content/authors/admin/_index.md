@@ -68,13 +68,13 @@ skills:
       - name: Solidity
         description: ''
         percent: 40
-        icon: solidity
-        icon_pack: fas
+        icon: file-contract
+        icon_pack: fab
       - name: C++
         description: ''
         percent: 50
-        icon: c
-        icon_pack: fas
+        icon: cplusplus
+        icon_pack: ''
   - name: Tool
     color: '#eeac02'
     color_border: '#f0bf23'
