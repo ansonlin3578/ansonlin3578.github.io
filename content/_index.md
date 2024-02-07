@@ -35,7 +35,7 @@ sections:
         - title: DevOps software engineer intern
           company: CoolBitX Ltd.
           company_url: 'https://coolbitx.com/'
-          company_logo: org-x
+          company_logo: CoolBitX_logo
           location: Taipei Taiwan
           date_start: '2023-10-11'
           date_end: ''
@@ -50,7 +50,7 @@ sections:
         - title: Automated Quality Assurance software engineer intern
           company: iKala Interactive Media Inc.
           company_url: 'https://ikala.ai/zh-tw/'
-          company_logo: org-gc
+          company_logo: ikala
           location: Taipei Taiwan
           date_start: '2023-04-12'
           date_end: '2023-10-06'
@@ -149,8 +149,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Automated testing
+          tag: Automated testing
+        - name: Machine Learning
+          tag: Machine Learning
         - name: Other
           tag: Demo
     design:
