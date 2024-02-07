@@ -25,7 +25,7 @@ organizations:
     url: https://www.nthu.edu.tw/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Block Chain, Web 3, Data Mining, DevOps technology
 
 # Interests to show in About widget
 interests:
