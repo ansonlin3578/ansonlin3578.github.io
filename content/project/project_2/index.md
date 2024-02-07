@@ -4,6 +4,7 @@ summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">python/pytest/docker/git/AWS lambda/AWS dynmodb/cloudflare</small></em><br>
   <small><em>Oct 2023 – now</em></small><br>
   To deploy the development environment using Docker for testing purposes and complete the end-to-end (E2E) automated testing process with pytest, including API functional testing, as well as performance testing of the web server using JMeter and k6.
+  [Maintanined producted](https://www.sygna.io/)
 tags:
   - Automated testing
 date: "2024-01-01T00:00:00Z"
