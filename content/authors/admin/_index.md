@@ -38,10 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Eletrical Engineersin
+    - course: Master in Eletrical Engineering
       institution: National Tsing Hua University
-      year: 2023
-    - course: Bachelor in Eletrical Engineersin
+      year: 2024
+    - course: Bachelor in Eletrical Engineering
       institution: Naitonal Taipei University of Technology
       year: 2021
 
@@ -139,5 +139,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a graduate student majoring in Electrical Engineering at [National Tsing Hua University](https://www.nthu.edu.tw/), focusing on machine learning, data mining, and related applications. Currently, I am serving as a DevOps Software Engineering Intern at Coolbitx Technology, where I have honed my skills in various programming languages and tools including <u style="color: #7dafe2;">JavaScript</u>, <u style="color: #7dafe2;">Python</u>, <u style="color: #7dafe2;">Golang</u>, <u style="color: #7dafe2;">Git</u>, <u style="color: #7dafe2;">Docker</u>, <u style="color: #7dafe2;">AWS Lambda</u>, and <u style="color: #7dafe2;">Linux Shell</u>, through hands-on projects.I am passionate about blockchain technology, big data, and artificial intelligence and aspire to secure a position in these domains where I can apply my expertise and skills to contribute meaningfully.
+I am currently a graduate student majoring in Electrical Engineering at [National Tsing Hua University](https://www.nthu.edu.tw/), focusing on machine learning, data mining, and related applications. Previously, I am serving as a DevOps Software Engineering Intern at Coolbitx Technology and IKALA interactive media, where I have honed my skills in various programming languages and tools including <u style="color: #7dafe2;">JavaScript</u>, <u style="color: #7dafe2;">Python</u>, <u style="color: #7dafe2;">Golang</u>, <u style="color: #7dafe2;">Git</u>, <u style="color: #7dafe2;">Docker</u>, <u style="color: #7dafe2;">AWS Lambda</u>, and <u style="color: #7dafe2;">Linux Shell</u>, through hands-on projects.I am passionate about blockchain technology, big data, and artificial intelligence and aspire to secure a position in these domains where I can apply my expertise and skills to contribute meaningfully.
 {style="text-align: justify;"}
