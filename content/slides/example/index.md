@@ -63,9 +63,7 @@ In-line math: $x + y = z$
 Block math:
 
 $$
-{% raw %}
-f(x) = \frac{{2(x + 4)(x - 4)}}{{(x + 4)(x + 1)}}
-{% endraw %}
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
 ---
